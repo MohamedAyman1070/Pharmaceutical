@@ -2,7 +2,7 @@
 
 $hostName = "localhost";
 $username = "root";
-$password = "01006059030app";
+$password = "";
 $dbName = "medical_DB";
 
 
